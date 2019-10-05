@@ -1,0 +1,14 @@
+#menubar {
+	background-color: #ccffff;
+	height: 80px;
+}
+
+#main {
+	background-color: #ccffcc;
+	height: 500px;
+}
+
+#footer {
+	background-color: #ccccff;
+	height: 80px;
+}
